@@ -9,7 +9,7 @@
 - [当前状态](context/STATE.md)：每次接续的最小上下文。
 - [学习路线](ROADMAP.md)：阶段、先修条件与判断标准。
 - [项目目录](projects/CATALOG.md)：模型、分析框架与真实案例，含原始来源。
-- [首课](daily/OPT-001.md)：教学模拟，待作答。
+- [首课](daily/OPT-001.md)：教学模拟；首轮已reviewed，概率短变体待作答（2026-11-13）。
 - [进度表](PROGRESS.md)：只记录有证据的学习进度。
 - [执行规则](AGENTS.md)：面向后续助手的读写约定。
 - [定时任务接入](automation/INTEGRATION.md)：现有任务与待接入步骤。
