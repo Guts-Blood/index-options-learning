@@ -4,7 +4,7 @@
 - 路线：案例驱动、按需理论、后续研究项目；用户授权GitHub追踪。
 - OPT：[context/OPT.md](OPT.md)。OPT-001首轮reviewed；本次概率短变体presented、未答。当前唯一推送练习；不推进OPT-002。
 - FIN：[context/FIN.md](FIN.md)。历史可确认答题迁入daily/FIN-001.md；净再投资待答题FIN-002保留，不同时新增作业。基础与benchmark进度独立。
-- GAME：沿用其所属轨道记录，本轮未读取或修改其学习进度。
+- GAME：[context/GAME.md](GAME.md)。2026-11-13首次迁入：GAME-001历史证据reviewed；GAME-002采购案例presented、未答，保留Q6入口，不新增作业。
 - 证据及状态汇总：[PROGRESS.md](../PROGRESS.md)；完整题目和反馈在daily/。
 - 下一步：按用户实际回答接续；推送不算完成，不能因旧STATE“未作答”重置OPT首轮。
 - 未决：真实交易市场、课程占比及实际时间预算。此前4–6小时/周、24周只是临时设计，不是用户承诺。

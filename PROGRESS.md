@@ -6,6 +6,8 @@
 | OPT-001 | 看涨观点与到期净收益 | reviewed | daily/OPT-001.md：2026-11-13 作答与反馈 | 首轮已反馈；P/Q短变体presented，等待答案 |
 | FIN-001 | 既往金融/benchmark真实答题迁入 | reviewed | daily/FIN-001.md：用户原话、复核与缺失范围 | 不将整理状态当作全部掌握 |
 | FIN-002 | 净再投资与增量回报B题 | presented | daily/FIN-002.md：未收到答案 | 保留待答，当前先OPT |
+| GAME-001 | 既往博弈论真实答题与复核迁入 | reviewed | daily/GAME-001.md：用户摘录、教师复核、缺失范围 | 整理不等于全部掌握 |
+| GAME-002 | 采购竞标、赢家诅咒与成本暴露 | presented | daily/GAME-002.md：已呈现材料与题目，无用户答案 | 保留Q6单题入口，不新增作业 |
 | P01–P10 | 项目研究 | planned | projects/CATALOG.md | 按先修条件选择 |
 
 过去课程只迁移可访问的真实答题证据；不按自动提醒次数生成学习完成记录。
