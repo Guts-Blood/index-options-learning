@@ -1,9 +1,9 @@
 # 当前学习状态
-更新：2026-11-14，Asia/Shanghai。仅作索引；各轨道真实答题优先于旧排期或任务快照。
+更新：2026-11-15，Asia/Shanghai。仅作索引；各轨道真实答题优先于旧排期或任务快照。
 
 - 路线：案例驱动、按需理论、后续研究项目；用户授权GitHub追踪。
-- OPT：[context/OPT.md](OPT.md)。OPT-001首轮及条件均值追问已反馈；当前接续同均值不同尾部题（presented、未答），旧概率变体保留历史但不并行追问。不推进OPT-002。
-- FIN：[context/FIN.md](FIN.md)。历史可确认答题迁入daily/FIN-001.md；净再投资待答题FIN-002保留，不同时新增作业。基础与benchmark进度独立。
+- OPT：[context/OPT.md](OPT.md)。OPT-001概率变体及尾部题已收到11/15手写答案并reviewed；修正不突破收益，旧算术不再待答。按用户偏好接续条件分布研究，未标全课mastered。
+- FIN：[context/FIN.md](FIN.md)。历史证据在FIN-001；FIN-002三项计算11/15已答对并reviewed，不重复推题。基础与benchmark进度独立。
 - GAME：[context/GAME.md](GAME.md)。2026-11-13首次迁入：GAME-001历史证据reviewed；GAME-002采购案例presented、未答，保留Q6入口，不新增作业。
 - 证据及状态汇总：[PROGRESS.md](../PROGRESS.md)；完整题目和反馈在daily/。
 - 下一步：按用户实际回答接续；推送不算完成，不能因旧STATE“未作答”重置OPT首轮。
