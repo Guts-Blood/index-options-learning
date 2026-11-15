@@ -2,7 +2,7 @@
 更新：2026-11-15，Asia/Shanghai。仅作索引；各轨道真实答题优先于旧排期或任务快照。
 
 - 路线：案例驱动、按需理论、后续研究项目；用户授权GitHub追踪。
-- OPT：[context/OPT.md](OPT.md)。11/15手写补答已reviewed；现呈现OPT-001研究桥接1（预测对象/信息集/经验基线），未答，仅保留这一题入口；不按日期升级。
+- OPT：[context/OPT.md](OPT.md)。用户11/15明确开始OPT-002，现第1/3段presented、未答；OPT-001 reviewed，未答研究桥接暂放，不重复追问。
 - FIN：[context/FIN.md](FIN.md)。历史证据在FIN-001；FIN-002三项计算11/15已答对并reviewed，不重复推题。基础与benchmark进度独立。
 - GAME：[context/GAME.md](GAME.md)。2026-11-13首次迁入：GAME-001历史证据reviewed；GAME-002采购案例presented、未答，保留Q6入口，不新增作业。
 - 证据及状态汇总：[PROGRESS.md](../PROGRESS.md)；完整题目和反馈在daily/。
