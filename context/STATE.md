@@ -1,8 +1,8 @@
 # 当前学习状态
-更新：2026-11-23，Asia/Shanghai。仅作索引；各轨道真实答题优先于旧排期或任务快照。
+更新：2026-11-24，Asia/Shanghai。仅作索引；各轨道真实答题优先于旧排期或任务快照。
 
 - 路线：案例驱动、按需理论、后续研究项目；用户授权GitHub追踪。
-- OPT：[context/OPT.md](OPT.md)。OPT-006第1/2段presented未答：自编看跌价差净收4000，三情景收益+4000/-6000/-26000、概率85/10/5%；求期望与尾部概率盈亏平衡。OPT-001至005 reviewed，不标全能力mastered；第2段概率验证仅planned，未出题。
+- OPT：[context/OPT.md](OPT.md)。OPT-006第1段reviewed：胜率85%、期望1500、临界方程由用户答对；10%的解及证据判断由教师补充。第2段历史频率验证planned。
 - FIN：[context/FIN.md](FIN.md)。历史证据在FIN-001；FIN-002三项计算11/15已答对并reviewed，不重复推题。基础与benchmark进度独立。
 - GAME：[context/GAME.md](GAME.md)。2026-11-13首次迁入：GAME-001历史证据reviewed；GAME-002采购案例presented、未答，保留Q6入口，不新增作业。
 - 证据及状态汇总：[PROGRESS.md](../PROGRESS.md)；完整题目和反馈在daily/。
