@@ -2,7 +2,7 @@
 更新：2026-11-26，Asia/Shanghai。仅作索引；各轨道真实答题优先于旧排期或任务快照。
 
 - 路线：案例驱动、按需理论、后续研究项目；用户授权GitHub追踪。
-- OPT：[context/OPT.md](OPT.md)。OPT-006第1段reviewed：胜率85%、期望1500、临界方程由用户答对；10%的解及证据判断由教师补充。第2段历史频率验证presented，待答；[飞行选读](../daily/OPT-006-flight.html)第4题可接续。
+- OPT：[context/OPT.md](OPT.md)。OPT-006第1段reviewed：胜率85%、期望1500、临界方程由用户答对；10%的解及证据判断由教师补充。第2段历史频率验证presented，待答；[飞行选读](../daily/OPT-006-flight.html)第4题可接续。按需呈现 [OPT-007 飞行题册](../daily/OPT-007-flight.html)，未作答；OPT-006 第2段仍待答。
 - FIN：[context/FIN.md](FIN.md)。历史证据在FIN-001；FIN-002三项计算11/15已答对并reviewed，不重复推题。基础与benchmark进度独立。
 - GAME：[context/GAME.md](GAME.md)。2026-11-13首次迁入：GAME-001历史证据reviewed；GAME-002采购案例presented、未答，保留Q6入口，不新增作业。
 - 证据及状态汇总：[PROGRESS.md](../PROGRESS.md)；完整题目和反馈在daily/。
